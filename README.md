@@ -4,7 +4,7 @@
 
 **Jayprbhakar/Jayprbhakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Let's enjoy with You ;)
 
 - 🔭 I’m currently working on Project CMS(Content Management System).
 - 🌱 I’m currently learning Php
