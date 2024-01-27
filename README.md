@@ -2,7 +2,7 @@
 
 
 
-**Jayprbhakar/Jayprbhakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Jayprbhakar/Jayprbhakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Let's enjoy with You ;)
 
