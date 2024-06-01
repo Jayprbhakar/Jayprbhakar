@@ -12,6 +12,6 @@ Let's enjoy with You ;)
 <!--- 🤔 I’m looking for help with --> 
 - 💬 Ask me about How Not to become a HACKER.
 - 📫 How to reach me: Only Using GH
-- 😄 Pronouns: Jay
-- ⚡ Fun fact: I'm A Student.
+- 😄 Pronouns: JP
+- ⚡ Fun fact: I'm A Developer.
 
