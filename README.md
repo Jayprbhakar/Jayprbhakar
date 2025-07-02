@@ -8,10 +8,15 @@ Let's enjoy with You ;)
 
 - 🔭 I’m currently working on Project CMS(Content Management System).
 - 🌱 I’m currently learning Php
-- 👯 I’m looking to collaborate on Nowhere
+- 👯 I’m looking to collaborate on Tech Teams (TEAM).
 <!--- 🤔 I’m looking for help with --> 
-- 💬 Ask me about How Not to become a HACKER.
-- 📫 How to reach me: Only Using GH
+- 💬 Ask me about How Not to become a computer Programmer.
+- 📫 How to reach me: Only Using Github or linkedin.
 - 😄 Pronouns: JP
-- ⚡ Fun fact: I'm A Developer.
+- ⚡ Fun fact: I'm A Front Developer.
+-  My goal is to become a Front-End Developer.
+-  Secondly, I aim to become a Back-End Developer.
+-  Third, I want to grow into a Full-Stack Developer.
+-  After that, I plan to dive into the cyber world, starting with the Red Team.
+-  Since 12th standard, I have been using Windows, but eventually, I want to switch to Linux so I can research and develop my software products more effectively (SOLO).
 
