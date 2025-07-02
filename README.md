@@ -6,11 +6,11 @@
 
 Let's enjoy with You ;)
 
-- 🔭 I’m currently working on Project CMS(Content Management System).
-- 🌱 I’m currently learning Php
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning javascript.
 - 👯 I’m looking to collaborate on Tech Teams (TEAM).
 <!--- 🤔 I’m looking for help with --> 
-- 💬 Ask me about How Not to become a computer Programmer.
+- 💬 Ask me about How to become a computer Programmer.
 - 📫 How to reach me: Only Using Github or linkedin.
 - 😄 Pronouns: JP
 - ⚡ Fun fact: I'm A Front Developer.
