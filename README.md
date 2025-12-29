@@ -19,4 +19,6 @@ Let's enjoy with You ;)
 -  Third, I want to grow into a Full-Stack Developer.
 -  After that, I plan to dive into the Application Security Engineer, starting with the Web Security Tester.
 -  Since 12th standard, I have been using Windows, but eventually, I want to switch to Linux so I can research and develop my software products more effectively (SOLO).
+-  Random Thoughts But real: Git is your present, Linkedin is your Future. 
+- 
 
