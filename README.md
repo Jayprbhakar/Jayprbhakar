@@ -13,7 +13,7 @@ Let's enjoy with You ;)
 - 💬 Ask me about How to become a computer Programmer.
 - 📫 How to reach me: Only Using Github or linkedin.
 - 😄 Pronouns: JP
-- ⚡ Fun fact: I'm A Front Developer.
+- ⚡ Fun fact: I'm A Frontend Developer.
 -  My goal is to become a Front-End Developer.
 -  Secondly, I aim to become a Back-End Developer.
 -  Third, I want to grow into a Full-Stack Developer.
