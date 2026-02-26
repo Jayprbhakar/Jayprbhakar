@@ -34,8 +34,8 @@ My goal is to work as a **Java Backend Developer** in a growth-oriented organiza
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- GitHub
+- 🔗 LinkedIn: https://www.linkedin.com/in/jp-yadav27  
+- 💻 GitHub: https://github.com/Jayprbhakar  
 
 ---
 
