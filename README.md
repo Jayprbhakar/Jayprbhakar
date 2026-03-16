@@ -23,7 +23,7 @@
 - **SQL**
 - **Spring Boot** (Learning & Building Projects)
 - **Git & GitHub**
-- - **Web Technology** : HTML5, CSS3, JavaScript(ES6)
+- **Web Technology** : HTML5, CSS3, JavaScript(ES6)
 
 ---
 
